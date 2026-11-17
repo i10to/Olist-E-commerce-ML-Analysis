@@ -2,7 +2,7 @@
 .venv/
 
 # Raw Olist CSVs (~120 MB) - download from Kaggle, see README
-data/raw/
+data/raw/olist_geolocation_dataset.csv
 
 # Jupyter autosaves and Python cache
 .ipynb_checkpoints/
