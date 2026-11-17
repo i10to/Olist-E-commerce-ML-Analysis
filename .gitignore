@@ -1,0 +1,9 @@
+# Python virtual environment (recreate with: pip install -r requirements.txt)
+.venv/
+
+# Raw Olist CSVs (~120 MB) - download from Kaggle, see README
+data/raw/
+
+# Jupyter autosaves and Python cache
+.ipynb_checkpoints/
+__pycache__/
