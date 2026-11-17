@@ -1,3 +1,3 @@
-# O-list-E-commerce-ML-Analysis
+# Olist-E-commerce-ML-Analysis
 
 Project Readme.MD will be done after project is completed
